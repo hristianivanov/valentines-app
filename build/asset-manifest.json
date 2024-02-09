@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hristianivanov.github.io/valentines/static/css/main.afe96244.css",
-    "main.js": "/hristianivanov.github.io/valentines/static/js/main.e2bfd5da.js",
-    "static/js/592.26bf5d96.chunk.js": "/hristianivanov.github.io/valentines/static/js/592.26bf5d96.chunk.js",
-    "static/media/logo.svg": "/hristianivanov.github.io/valentines/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/hristianivanov.github.io/valentines/index.html",
-    "main.afe96244.css.map": "/hristianivanov.github.io/valentines/static/css/main.afe96244.css.map",
-    "main.e2bfd5da.js.map": "/hristianivanov.github.io/valentines/static/js/main.e2bfd5da.js.map",
-    "592.26bf5d96.chunk.js.map": "/hristianivanov.github.io/valentines/static/js/592.26bf5d96.chunk.js.map"
+    "main.css": "/hristianivanov/valentines.github.io/static/css/main.afe96244.css",
+    "main.js": "/hristianivanov/valentines.github.io/static/js/main.abd00942.js",
+    "static/js/592.26bf5d96.chunk.js": "/hristianivanov/valentines.github.io/static/js/592.26bf5d96.chunk.js",
+    "static/media/logo.svg": "/hristianivanov/valentines.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hristianivanov/valentines.github.io/index.html",
+    "main.afe96244.css.map": "/hristianivanov/valentines.github.io/static/css/main.afe96244.css.map",
+    "main.abd00942.js.map": "/hristianivanov/valentines.github.io/static/js/main.abd00942.js.map",
+    "592.26bf5d96.chunk.js.map": "/hristianivanov/valentines.github.io/static/js/592.26bf5d96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afe96244.css",
-    "static/js/main.e2bfd5da.js"
+    "static/js/main.abd00942.js"
   ]
 }
