@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hristianivanov.github.io/valentines-app/static/css/main.66f58eb3.css",
-    "main.js": "/hristianivanov.github.io/valentines-app/static/js/main.369a9d03.js",
-    "static/js/592.26bf5d96.chunk.js": "/hristianivanov.github.io/valentines-app/static/js/592.26bf5d96.chunk.js",
-    "static/media/Axiforma-SemiBold.woff": "/hristianivanov.github.io/valentines-app/static/media/Axiforma-SemiBold.6cd324e9d99d6d843705.woff",
-    "static/media/Axiforma-Bold.woff": "/hristianivanov.github.io/valentines-app/static/media/Axiforma-Bold.a5763688e85a57f1a5f6.woff",
-    "static/media/Axiforma-Medium.woff": "/hristianivanov.github.io/valentines-app/static/media/Axiforma-Medium.27f762a5c4f1236bf738.woff",
-    "static/media/Axiforma-Black.woff": "/hristianivanov.github.io/valentines-app/static/media/Axiforma-Black.992ceed2d6cc039c8408.woff",
-    "static/media/Axiforma-Regular.woff": "/hristianivanov.github.io/valentines-app/static/media/Axiforma-Regular.2b258adf3be92e4cc1ad.woff",
-    "static/media/Axiforma-Light.woff": "/hristianivanov.github.io/valentines-app/static/media/Axiforma-Light.bbb27e30906f29b01295.woff",
-    "static/media/Axiforma_Thin.woff": "/hristianivanov.github.io/valentines-app/static/media/Axiforma_Thin.ed013fb1b077f4321d0d.woff",
-    "static/media/logo.svg": "/hristianivanov.github.io/valentines-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/hristianivanov.github.io/valentines-app/index.html",
-    "main.66f58eb3.css.map": "/hristianivanov.github.io/valentines-app/static/css/main.66f58eb3.css.map",
-    "main.369a9d03.js.map": "/hristianivanov.github.io/valentines-app/static/js/main.369a9d03.js.map",
-    "592.26bf5d96.chunk.js.map": "/hristianivanov.github.io/valentines-app/static/js/592.26bf5d96.chunk.js.map"
+    "main.css": "/valentines-app/static/css/main.545f0091.css",
+    "main.js": "/valentines-app/static/js/main.0de6bbf1.js",
+    "static/js/592.26bf5d96.chunk.js": "/valentines-app/static/js/592.26bf5d96.chunk.js",
+    "static/media/Axiforma-SemiBold.woff": "/valentines-app/static/media/Axiforma-SemiBold.6cd324e9d99d6d843705.woff",
+    "static/media/Axiforma-Bold.woff": "/valentines-app/static/media/Axiforma-Bold.a5763688e85a57f1a5f6.woff",
+    "static/media/Axiforma-Medium.woff": "/valentines-app/static/media/Axiforma-Medium.27f762a5c4f1236bf738.woff",
+    "static/media/Axiforma-Black.woff": "/valentines-app/static/media/Axiforma-Black.992ceed2d6cc039c8408.woff",
+    "static/media/Axiforma-Regular.woff": "/valentines-app/static/media/Axiforma-Regular.2b258adf3be92e4cc1ad.woff",
+    "static/media/Axiforma-Light.woff": "/valentines-app/static/media/Axiforma-Light.bbb27e30906f29b01295.woff",
+    "static/media/Axiforma_Thin.woff": "/valentines-app/static/media/Axiforma_Thin.ed013fb1b077f4321d0d.woff",
+    "static/media/logo.svg": "/valentines-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/valentines-app/index.html",
+    "main.545f0091.css.map": "/valentines-app/static/css/main.545f0091.css.map",
+    "main.0de6bbf1.js.map": "/valentines-app/static/js/main.0de6bbf1.js.map",
+    "592.26bf5d96.chunk.js.map": "/valentines-app/static/js/592.26bf5d96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66f58eb3.css",
-    "static/js/main.369a9d03.js"
+    "static/css/main.545f0091.css",
+    "static/js/main.0de6bbf1.js"
   ]
 }
